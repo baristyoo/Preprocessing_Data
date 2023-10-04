@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "PyCharm Night Theme",
+    "indentRainbow.indicatorStyle" : "light",
+    "indentRainbow.ignoreErrorLanguages": [
+    "*",
+    ],
+}
